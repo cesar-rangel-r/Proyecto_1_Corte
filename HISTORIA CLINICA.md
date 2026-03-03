@@ -130,8 +130,6 @@ Este proceso cubre a 6 especialistas. En Colombia, el costo empresa incluye el s
 * **Herramientas ($14M):** Licenciamiento de Jira, GitHub Enterprise y herramientas de diseño.
 * **Reserva de Contingencia ($59.6M):** Fondo del 10% destinado a cambios normativos imprevistos por el Ministerio de Salud o actualizaciones de estándares (CIE-10 / HL7).
 
-### Resumen del Cálculo Final
-$$\text{Presupuesto} = \text{Personal} (\$500M) + \text{Infraestructura} (\$82M) + \text{Otros} (\$14M) + \text{Contingencia} (\$59.6M)$$
 **Total Proyecto: $655.600.000 COP**
 
 ## 4. Diseño del Modelo Aplicado
